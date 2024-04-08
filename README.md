@@ -1,7 +1,7 @@
 
 <!--타이틀 -->
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JongBeom%20Yuk&fontSize=60&fontColor=3c3c3c" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=D9EFCC&height=300&section=header&text=JongBeom%20Yuk&fontSize=60&fontColor=FFFFFF" />
 </div>
 
 <!--내용 -->
