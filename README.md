@@ -14,7 +14,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"     />&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"   />&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />&nbsp
-  <img alt = Static Badge" src="https://img.shields.io/badge/H2-5a5a5a?style=for-the-badge"/>&nbsp   
+  <img alt = "Static Badge" src="https://img.shields.io/badge/H2-5a5a5a?style=for-the-badge"/>&nbsp   
 
 <h3>DevOps</h3>
   <img src="https://img.shields.io/badge/aws-3C5087?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>&nbsp
