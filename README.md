@@ -13,11 +13,11 @@
   &nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"     />&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"   />&nbsp
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
   <img alt = "Static Badge" src="https://img.shields.io/badge/H2-5a5a5a?style=for-the-badge"/>&nbsp   
 
 <h3>DevOps</h3>
-  <img src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazon"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-%23232f3e?logo=amazon&style=for-the-badge&logoColor=white"/>&nbsp
 
 <h3 align="center"> SNS </h3>
 <p align="center">
